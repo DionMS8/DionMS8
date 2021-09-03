@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png" alt="js" height="50" width="50" />
 </p>
 
+<br><br>
 
 ## Connect with me on the Web 🌍
 
