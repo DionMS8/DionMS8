@@ -9,15 +9,22 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 -->
 
 - 😄 Pronouns: He/Him
+- 🤔 I’m looking for help with Machine Learning and Data Analytics
 - 📫 How to reach me: **dionsingh8@hotmail.com
 
-<h3 align="center">Connect with me:</h3>
+## My skills 🚀
+<p align="center">
+<img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" height="50" width="50" /> &nbsp;&nbsp;&nbsp;
+<img align="center" src="https://img.icons8.com/color/50/000000/css3.png" alt="css" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js" height="50" width="50" />
+</p>
+
+## Find me around the web 🌍
+
+## Connect with me:
 <p align="center">
 <a href="https://twitter.com/Dion_MS8" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dion-singh-914467164/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
