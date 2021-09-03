@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png" alt="js" height="50" width="50" />
 </p>
 
-<br><br>
+<br>
 
 ## Connect with me on the Web 🌍
 
@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/dion_ms8/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
 </p>
 
-
+<br>
 
 
