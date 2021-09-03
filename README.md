@@ -1,4 +1,4 @@
-### Hello, I am Dion 👋
+# Hello, I am Dion 👋
 
 ![](https://pbs.twimg.com/profile_banners/786168534/1629086672/1500x500)
 
