@@ -2,7 +2,7 @@
 
 <h2  align="center">EAT  .  SLEEP  .  CODE</h2>
 
-! [](https://pbs.twimg.com/profile_banners/786168534/1629086672/1500x500)
+![](https://pbs.twimg.com/profile_banners/786168534/1629086672/1500x500)
 
 
 <!--**DionMS8/DionMS8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
