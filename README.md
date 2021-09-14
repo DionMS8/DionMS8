@@ -13,7 +13,6 @@
 -->
 
 - 😄 Pronouns: He/Him
-- 🤔 I’m looking for help with Machine Learning and Data Analytics
 - 📫 How to reach me: **dionsingh8@hotmail.com**
 
 ## My skills 👨🏽‍💻
