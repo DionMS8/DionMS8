@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="waving-hand-gif" height="40" width="40" />, I am Dion.</h1>
+<h1 align="center">Welcome to my GitHub <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="waving-hand-gif" height="40" width="40" /></h1>
 
 ![](https://pbs.twimg.com/profile_banners/786168534/1629086672/1500x500)
 
