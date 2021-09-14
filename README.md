@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="waving-hand-gif" height="40" width="40" /></h1>
 
-<h2  align="center">EAT  .  SLEEP  .  CODE</h2>
+<h2  align="center"><---  EAT  .  SLEEP  .  CODE  ---></h2>
 
 ![](https://pbs.twimg.com/profile_banners/786168534/1629086672/1500x500)
 
