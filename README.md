@@ -7,13 +7,7 @@
 
 <!--**DionMS8/DionMS8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 -->
-
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: **dionsingh8@hotmail.com**
 
 ## My skills 👨🏽‍💻
 
@@ -41,6 +35,12 @@
 <a href="https://www.instagram.com/dion_ms8/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="ig" height="50" width="50" /></a>
 </p>
 
+<br>
+  
+😄 Pronouns: He/Him
+<br>
+📫 Contact: **dionsingh8@hotmail.com**
+  
 <br>
 
 
