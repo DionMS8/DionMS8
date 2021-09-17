@@ -3,7 +3,7 @@
 <h2  align="center"><---  EAT  .  SLEEP  .  CODE  ---></h2>
 
 ![image](https://user-images.githubusercontent.com/55777067/133856996-293216d2-50fd-44d7-854d-f1467a10432f.png)
-
+<img align="center" src="https://user-images.githubusercontent.com/55777067/133856996-293216d2-50fd-44d7-854d-f1467a10432f.png" alt="html" /> 
 
 ## My skills 👨🏽‍💻
 
