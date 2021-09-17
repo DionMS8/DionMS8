@@ -38,7 +38,7 @@
 <br>
   
 😄 Pronouns: He/Him
-<br>
+<br><br>
 📫 Contact: **dionsingh8@hotmail.com**
   
 <br>
