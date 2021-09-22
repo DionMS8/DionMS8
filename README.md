@@ -19,7 +19,7 @@
 
 <br>
 
-
+<!--
 ## Connect with me on the Web 🌍
 
 <p align="center">
@@ -27,9 +27,8 @@
 <a href="https://www.linkedin.com/in/dion-singh-914467164/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkedin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/dion_ms8/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="ig" height="50" width="50" /></a>
 </p>
+-->
+<br>
 
-<br>
-  
-<br>
 
 
