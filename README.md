@@ -2,7 +2,7 @@
 
 <!--<h2  align="center"> EAT  .  SLEEP  .  CODE </h2>-->
 
-## My skills 👨🏽‍💻
+## Skills and Technologies 👨🏽‍💻
 
 <p align="center">
 <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" height="50" width="50" /> &nbsp;&nbsp;&nbsp;
