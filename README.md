@@ -18,7 +18,7 @@
 <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="node" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;
 <!--<img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;-->
 <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://img.icons8.com/ios/50/000000/heroku.png" alt="heroku" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://img.icons8.com/ios/50/000000/heroku.png" alt="heroku" height="50" width="50" />
 <!--<img align="center" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png" alt="ps" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;-->
 </p>
 
