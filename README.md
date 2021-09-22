@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="waving-hand-gif" height="40" width="40" /></h1>
+<h1 align="center"> Hello World <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="waving-hand-gif" height="40" width="40" /></h1>
 
 <h2  align="center"><---  EAT  .  SLEEP  .  CODE  ---></h2>
 
