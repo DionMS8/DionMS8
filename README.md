@@ -2,7 +2,11 @@
 
 <!--<h2  align="center"> EAT  .  SLEEP  .  CODE </h2>-->
 
-## Skills and Technologies 👨🏽‍💻
+## About Me
+
+A detail-oriented, self-driven, and adaptable individual. I am currently pursuing my BSc in Electrical and Computer Engineering at the University of the West Indies. I have a strong interest in Web development and UI/UX design, with dedication to designing and developing software that will provide a user experience that fulfills user needs and stakeholders' expectations. I am open to any opportunities to expand my knowledge and skillset.
+
+## Skills and Technologies
 
 <p align="center">
 <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" height="50" width="50" /> &nbsp;&nbsp;&nbsp;
