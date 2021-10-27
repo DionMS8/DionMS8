@@ -17,7 +17,7 @@ A detail-oriented, self-driven, and adaptable individual. I am currently pursuin
 <img align="center" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=ffffff" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="sql" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!--<img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;-->
 <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" src="https://img.icons8.com/ios/50/000000/heroku.png" alt="heroku" height="50" width="50" />
 <!--<img align="center" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png" alt="ps" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;-->
