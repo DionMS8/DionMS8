@@ -2,7 +2,7 @@
 
 ## About Me 
 
-A detail-oriented, self-driven, and adaptable individual. I am currently pursuing my BSc in Electrical and Computer Engineering at the University of the West Indies. I have a strong interest in Web development and UI/UX design, with dedication to designing and developing software that will provide a user experience that fulfills user needs and stakeholders' expectations. I am open to any opportunities to expand my knowledge and skillset.
+I am a detail-oriented, self-driven, and adaptable individual, currently pursuing my BSc in Electrical and Computer Engineering at the University of the West Indies. I have a strong interest in Web development and UI/UX design, with dedication to designing and developing software that will provide a user experience that fulfills user needs and stakeholders' expectations. I am open to any opportunities to expand my knowledge and skillset.
 
 ## Skills and Technologies
 
