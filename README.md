@@ -27,6 +27,8 @@ A detail-oriented, self-driven, and adaptable individual. I am currently pursuin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionms8&theme=tokyonight&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=dionms8)
+
 <br>
 
 <!--
