@@ -26,7 +26,7 @@ I am a detail-oriented, self-driven, and adaptable individual, currently pursuin
 <br>
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionms8&theme=tokyonight&show_icons=true&hide=["issues"]) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dionms8&theme=tokyonight&layout=compact)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dionms8&theme=tokyonight&layout=compact)-->
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=dionms8)-->
