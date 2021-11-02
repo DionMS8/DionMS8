@@ -2,7 +2,7 @@
 
 ## About Me 
 
-I am a detail-oriented, self-driven, and adaptable individual, currently pursuing my BSc in Electrical and Computer Engineering at the University of the West Indies. I have a strong interest in Web development and UI/UX design, with dedication to designing and developing software that will provide a user experience that fulfills user needs and stakeholders' expectations. I am open to any opportunities to expand my knowledge and skillset.
+I have +1 year of experience in software development with a strong emphasis on web development with MERN stack and UI/UX design with Figma. I have participated in the International Collegiate Programming Contest (ICPC) along with 2 hackathons (CARIRI & NSBEHacks) and worked on several personal projects. I am interested in designing and developing software that will provide a user experience that fulfills user needs and stakeholders' expectations with high performance, security, quality, and stability.
 
 ## Skills and Technologies
 
