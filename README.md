@@ -2,7 +2,7 @@
 
 ## About Me 
 
-+1.5 years of experience in software development with a strong emphasis on web development with MERN stack and UI/UX design with Figma. Participated in the International Collegiate Programming Contest (ICPC) along with 2 hackathons (CARIRI & NSBEHacks) and worked on several personal projects. Strong interest in designing and developing software that will provide a user experience that fulfills user needs and stakeholders' expectations with high performance, security, quality, and stability.
++1.5 years of experience in software development with a strong emphasis on web development with MERN stack and UI/UX design with Figma. Participated in the International Collegiate Programming Contest (ICPC) along with 2 hackathons (CARIRI & NSBEHacks) and worked on several personal projects. Strong interest in designing and developing software that will provide a user experience that fulfills user needs and stakeholders' expectations with high performance, security, quality, and stability. I am currently working on a digital COVID-19 vaccination passport as my final year project for my BSc. 
 
 ## Skills and Technologies
 
