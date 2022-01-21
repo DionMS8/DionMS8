@@ -25,7 +25,6 @@
 <!--<img align="center" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png" alt="ps" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;-->
 </p>
 
-<br>
 
 ## Connect With Me 🌍
 
