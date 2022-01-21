@@ -25,6 +25,16 @@
 <!--<img align="center" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png" alt="ps" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;-->
 </p>
 
+
+## Connect with me on the Web 🌍
+
+<p align="center">
+<a href="https://twitter.com/Dion_MS8" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="twitter" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dion-singh-914467164/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkedin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/dion_ms8/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="ig" height="50" width="50" /></a>
+</p>
+
+
 <br>
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionms8&theme=tokyonight&show_icons=true&hide=["issues"]) -->
@@ -33,14 +43,6 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=dionms8)-->
 
-<!--
-## Connect with me on the Web 🌍
 
-<p align="center">
-<a href="https://twitter.com/Dion_MS8" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="twitter" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dion-singh-914467164/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkedin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/dion_ms8/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="ig" height="50" width="50" /></a>
-</p>
--->
 
 
