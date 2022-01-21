@@ -1,6 +1,6 @@
 <!--<h1 align="center"> Hello World  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="waving-hand-gif" height="40" width="40"></h1>-->
 
-![image](https://user-images.githubusercontent.com/55777067/150489152-0ac19ae2-d33c-4315-a9b8-238cdacc72e7.png)
+![image](https://user-images.githubusercontent.com/55777067/150496552-5b4a558c-9e8d-416b-a6cb-08db0ab4b0d3.png)
 
 ## About Me 
 
