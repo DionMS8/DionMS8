@@ -25,8 +25,8 @@
 <!--<img align="center" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png" alt="ps" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;-->
 </p>
 
-
-## Connect with me on the Web 🌍
+<br>
+## Connect With Me 🌍
 
 <p align="center">
 <a href="https://twitter.com/Dion_MS8" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="twitter" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
