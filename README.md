@@ -8,7 +8,7 @@
 
 ## Skills and Technologies
 
-<p align="center">
+<p>
 <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" height="50" width="50" /> &nbsp;&nbsp;&nbsp;
 <img align="center" src="https://img.icons8.com/color/50/000000/css3.png" alt="css" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;
