@@ -36,7 +36,7 @@
 
 ## Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DionMS8&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DionMS8&theme=highcontrast&fire=FFD700)](https://git.io/streak-stats)
 
 <br>
 
