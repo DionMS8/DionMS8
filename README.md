@@ -36,7 +36,9 @@
 
 ## Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DionMS8&theme=highcontrast&fire=32CD32&ring=A32CC4&currStreakLabel=32CD32&sideLabels=32CD32&align="center")](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DionMS8&theme=highcontrast&fire=32CD32&ring=A32CC4&currStreakLabel=32CD32&sideLabels=32CD32)](https://git.io/streak-stats)
+</p>
 
 <br>
 
