@@ -34,6 +34,7 @@
 <a href="https://www.instagram.com/dion_ms8/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="ig" height="50" width="50" /></a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DionMS8)](https://git.io/streak-stats)
 
 <br>
 
