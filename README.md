@@ -6,6 +6,8 @@
 
 +2 years of experience in software development with a strong emphasis on web development with XAMPP stack and MERN stack. Participated in the International Collegiate Programming Contest (ICPC) along with 2 hackathons (CARIRI & NSBEHacks) and worked on several personal projects. Strong interest in designing and developing software that will provide a user experience that fulfills user needs and stakeholders' expectations with high performance, security, quality, and stability. 
 
+📧 E-mail: dionsingh8@hotmail.com
+
 ## Skills and Technologies
 
 <p>
@@ -42,10 +44,6 @@
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionms8&theme=tokyonight&show_icons=true&hide=["issues"]) -->
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dionms8&theme=tokyonight&layout=compact)-->
-
-
-<!-- ![](https://komarev.com/ghpvc/?username=dionms8)-->
-
 
 
 
