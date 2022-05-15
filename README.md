@@ -40,8 +40,6 @@
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DionMS8&theme=highcontrast&fire=32CD32&ring=A32CC4&currStreakLabel=32CD32&sideLabels=32CD32)](https://git.io/streak-stats)
 
-<br>
-
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionms8&theme=tokyonight&show_icons=true&hide=["issues"]) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dionms8&theme=highcontrast&layout=compact)
 
