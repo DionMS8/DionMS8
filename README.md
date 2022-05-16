@@ -34,6 +34,7 @@
 <a href="https://twitter.com/Dion_MS8" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="twitter" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dion-singh-914467164/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/dion_ms8/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="ig" height="50" width="50" /></a>
+<a href="mailto:dionsingh8@hotmail.com" target="blank"><img align="center" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-business-kiranshastry-lineal-color-kiranshastry.png" alt="email" height="50" width="50" /></a>
 </p>
 
 ## Streak Stats
