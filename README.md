@@ -6,7 +6,6 @@
 
 +2 years of experience in software development with a strong emphasis on web development with XAMPP stack and MERN stack. Participated in the International Collegiate Programming Contest (ICPC) along with 2 hackathons (CARIRI & NSBEHacks) and worked on several personal projects. Strong interest in designing and developing software that will provide a user experience that fulfills user needs and stakeholders' expectations with high performance, security, quality, and stability. Sound knowledge of concepts such as Big-O Notation, Data Structures and Algorithms.
 
-📧 E-mail: dionsingh8@hotmail.com
 
 ## Skills and Technologies
 
