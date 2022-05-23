@@ -36,7 +36,7 @@
 <a href="mailto:dionsingh8@hotmail.com" target="blank"><img align="center" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-business-kiranshastry-lineal-color-kiranshastry.png" alt="email" height="50" width="50" /></a>
 </p>
 
-## Streak Stats
+## GitHub Stats
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DionMS8&theme=highcontrast&fire=32CD32&ring=A32CC4&currStreakLabel=32CD32&sideLabels=32CD32)](https://git.io/streak-stats)
 
